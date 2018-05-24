@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yuki-rpc/rpc-client/rpc-client.iml" filepath="$PROJECT_DIR$/yuki-rpc/rpc-client/rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuki-rpc/rpc-common/rpc-common.iml" filepath="$PROJECT_DIR$/yuki-rpc/rpc-common/rpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuki-rpc/rpc-server/rpc-server.iml" filepath="$PROJECT_DIR$/yuki-rpc/rpc-server/rpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuki-rpc/yuki-rpc.iml" filepath="$PROJECT_DIR$/yuki-rpc/yuki-rpc.iml" />
+    </modules>
+  </component>
+</project>
